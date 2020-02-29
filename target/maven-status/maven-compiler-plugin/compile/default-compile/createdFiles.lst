@@ -1,0 +1,4 @@
+com\lagou\Dao\UserDaoImpl.class
+com\lagou\Dao\IUserDao.class
+com\lagou\test\IPersistenceTest.class
+com\lagou\pojo\User.class
